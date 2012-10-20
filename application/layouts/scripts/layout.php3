@@ -4,7 +4,7 @@
 <script>
 	var lang = '<?php echo Zend_Registry::get('lang'); ?>';
 </script>
-<?php $this->headTitle('Wutmarc')->setSeparator(' | '); ?>
+<?php $this->headTitle('Wutmarc stainless steel')->setSeparator(' | '); ?>
 
 <?php $this->headLink()->appendStylesheet('/theme/css/style.css')
 					   ->appendStylesheet('/theme/css/swf.css')
